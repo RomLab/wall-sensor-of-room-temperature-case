@@ -1,4 +1,4 @@
-# wall-sensor-of-room-temperature-case
+# Case for a wall sensor of room temperature
 The case from 3D printer (Prusa 3D printer) for wall sensor of room temperature (a bottom and top part).
 
 * Program for a 3D model is [Freecad](https://www.freecadweb.org/)
